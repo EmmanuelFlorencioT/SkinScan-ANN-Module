@@ -12,7 +12,7 @@ convolutional neural network model to effectively classify various skin lesions.
 
 ## Model Architecture Proposal
 
-Our current proposed model incorporates concepts from the ResNet Image Classification Model created by Google. The advantage of 
+Our current proposed model incorporates concepts from the ResNet Image Classification Model. The advantage of 
 this model lies in the shortcuts found within the residual blocks, allowing most of the original image's information to pass 
 through the block and removing any noise that random weight initialization might introduce.
 
